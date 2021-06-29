@@ -1,0 +1,5 @@
+*.sh
+*.db
+artifacts
+*.txt
+.ipynb_checkpoints
