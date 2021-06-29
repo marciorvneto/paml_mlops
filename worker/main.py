@@ -3,7 +3,6 @@ from tensorflow import keras
 from flask import Flask, request
 import os
 
-
 app = Flask(__name__)
 
 @app.route("/artifacts/<num>/<id>/<value>")

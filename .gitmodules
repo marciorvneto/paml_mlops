@@ -1,0 +1,6 @@
+[submodule "paml_mlops"]
+	path = paml_mlops
+	url = https://github.com/marciorvneto/paml_mlops
+[submodule "paml_mlops_frontend"]
+	path = paml_mlops_frontend
+	url = https://github.com/marciorvneto/paml_mlops_frontend
